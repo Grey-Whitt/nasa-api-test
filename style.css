@@ -1,0 +1,17 @@
+.border {
+    border: 3px solid red;
+    width: 100%;
+    height: 50vh;
+    margin: 10px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#sat {
+    background-size: 100% 100%;
+}
